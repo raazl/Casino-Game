@@ -29,3 +29,8 @@ This is a Casino Number Guessing Betting game implemented in C++. The game promp
 ![1](https://github.com/raazl/Casino-Game/assets/139997059/9476f6c1-64e9-4be4-a18b-27bbfbb06aff)
 
 ![2](https://github.com/raazl/Casino-Game/assets/139997059/120d8e43-a597-4b19-be96-8514bcce2469)
+
+# My Id:
+Name: MD.Abdur Razzak
+
+ID: 222-115-221
