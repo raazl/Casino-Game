@@ -68,7 +68,7 @@ int main()
         }
  
         cout << "\nThe winning number was : " << dice <<"\n";
-        cout << "\n"<<playerName<<", You have $ " << amount << "\n";
+        cout << "\n"<<playerName<<", You have Tk " << amount << "\n";
         if(amount == 0)
         {
             cout << "You have no money to play ";
@@ -80,7 +80,7 @@ int main()
     
     cout << "\n\n\n";
     drawLine(70,'=');
-    cout << "\n\nThanks for playing. Your balance amount is $ " << amount << "\n\n";
+    cout << "\n\nThanks for playing. Your balance amount is Tk " << amount << "\n\n";
     drawLine(70,'=');
  
     return 0;
